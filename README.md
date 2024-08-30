@@ -8,11 +8,7 @@
 
 <div  align="center">
 
-<a  href="https://x.com/madhukar0721">Twitter</a> -
-
-<a  href="https://www.linkedin.com/in/madhukar0721/">LinkedIn</a> -
-
-<a  href="mailto:madhukarkumarsocial@gmail.com">Gmail</a> -
+<a  href="https://x.com/madhukar0721">Twitter</a> -  <a  href="https://www.linkedin.com/in/madhukar0721/">LinkedIn</a> - <a  href="mailto:madhukarkumarsocial@gmail.com">Gmail</a> 
 
 </div>
 
