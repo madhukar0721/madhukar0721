@@ -32,6 +32,7 @@
 - [Todo-CLI-Tool](https://github.com/madhukar0721/Todo-CLI-Tool)
 
 - [NetflixCSS](https://github.com/madhukar0721/NetflixCSS)
+- [Solana Faucet](https://github.com/madhukar0721/Solana-Faucet)
   
 
 - 👯 I’m looking to collaborate on ... Any of the projects
