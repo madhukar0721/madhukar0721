@@ -62,6 +62,18 @@
 
 <img  width="3"  />
 
+<img  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"  height="30"  alt="css logo"  />
+
+<img  width="3"  />
+
+<img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  height="30"  alt="css logo"  />
+
+<img  width="3"  />
+
+<img  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"  height="30"  alt="html logo"  />
+
+<img  width="3"  />
+
 <img  src="https://img.shields.io/badge/Git-F03032?logo=git&logoColor=white&style=for-the-badge"  height="30"  alt="git logo"  />
 
 <img  width="3"  />
