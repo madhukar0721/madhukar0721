@@ -25,7 +25,7 @@
 
   
 
--  **About me** -> Software Development Engineer @ **Emsec**
+-  **About me** -> Software Development Engineer @**Emsec**
 
 - My recent Projects:
 - [Feedback Flow](https://github.com/madhukar0721//FeedbackFlow)
